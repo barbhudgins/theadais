@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohweekeero.leanmapper.com/sitemap.xml
